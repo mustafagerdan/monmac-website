@@ -19,3 +19,8 @@ Amazon-to-eBay automation with AI — marketing site.
    - `A` records for `@` → `185.199.108.153`, `185.199.109.153`, `185.199.110.153`, `185.199.111.153`
    - `CNAME` for `www` → `<your-username>.github.io`
 3. Once DNS resolves, enable **Enforce HTTPS**.
+
+## Pages
+
+- `/` → `index.html` (marketing site)
+- `/onboarding/` → `onboarding/index.html`
